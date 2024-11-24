@@ -13,6 +13,8 @@
     "@fortawesome/free-regular-svg-icons": "^6.7.1",
     "@fortawesome/free-solid-svg-icons": "^6.7.1",
     "@fortawesome/react-fontawesome": "^0.2.2",
+    "@workos-inc/authkit-nextjs": "^0.16.1",
+    "@workos-inc/node": "^7.33.1",
     "font-awesome-icons": "^1.6.0",
     "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
